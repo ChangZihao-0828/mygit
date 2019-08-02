@@ -1,0 +1,10 @@
+server:
+  port: 9999
+
+
+spring:
+  thymeleaf:
+    cache: false
+    mode: LEGACYHTML5
+    encoding: UTF-8
+
